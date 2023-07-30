@@ -3,7 +3,7 @@ An Excel dashboard is a visual representation of data that allows users to monit
 
 Key characteristics of an Excel dashboard include:
 
-Data Visualization: Dashboards use various types of charts and graphs, such as line charts, bar charts, pie charts, scatter plots, and heatmaps, to present data visually. These visual representations make it easier for users to grasp patterns, trends, and insights from the data.
+Data Visualization: Dashboards use various types of charts and graphs, such as line charts, bar charts, pie charts, scatter plots, and heatmaps, to present data visually. These visual representations make it easier for users to grasp patterns, trends, and insights from the data
 
 Interactivity: Excel dashboards often incorporate interactive elements like drop-down menus, slicers, or buttons that allow users to filter and manipulate the data dynamically. This interactivity enhances the user experience and enables users to explore the data in more depth.
 
